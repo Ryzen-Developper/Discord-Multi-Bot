@@ -1,0 +1,12 @@
+{
+  "groupId": 994985987,
+  "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_CAEaAhADIhsKBGR1aWQSEzYwNjg4OTQ4MDk2Mzc2ODczNDMoBA.QS_jjEmfSRFrbiZIw7uQ39rNLmjpQo_iWuo3hTH3cUjw72ZtojrmJIpYenUfnpHsJ0xA_Izns8Xo06PL5Us-iS2BPmOkLT15E41KZSh0lFxVW4LCLWwcj1bN3o-dNXA2kx107lVlZqWz0PGPibVj1Tom6oY_Z-d0W1uthbMd47IMBXBxh8IIJQoOqMmuB0NlV6dBvQhuOefyjUWt2PigUXRvBP2x0iS6G0e00wWYH4-jX_nvqnRu-6XEOHLJqkosYrR3vxpypmNROFkCkOIrm-jKjjVrLx9VT7Fte-XyojFTLE6KPVmkJBTaxPJt4jPmZIugPYZ0fcsL-JYNAYd3RZZBzA-q6EyXHjtmEIz_LYB-YGgCOmwskGXO0V2aeKiZ7rod4wz1xE4wIL9w4QJcV1DS7Wh8rCPY5u7zBQLSNMUzjJi484g-Z7jZmfTLWNEx4kEGMCs6rt7ywdIoKahIMKuqSEQW-_622f5_f6FUfNNoKgrv4Gd-rBCCr45xTAY-4s6D5hBAGBTuyyUByUPbckTDgcky_m1Go5LApx11OZGLWzryOMbzCWu8g1GaxNCbfj4wXjXKENVX-mgAZv83XNc9Qg_04sItekpOKC1DPoYWv3CbOlabAiOCJEEf7MrZnDZ660Amph_bytgXJYTge7eWAGVGmuwBYFH8wPEkPiwEFgS1mbLqjUAfPIkaaPa7vAi47gJHr8kFig_UVw2Rm8yMl-PBd80EnHgpGqE06Evhuv2kIvQz7Ldj8W0vvH2pPtC7yMfeazr2rQVaA1sgoqnw4wGid61p5wvVICEdGfa5j9Qj",
+  "webhooks": {
+    "borderLogs": "https://discord.com/api/webhooks/1470521999334834411/GJHEDH8JVvwSUZ5HOxGaTib9ox0fGeC9MxgqhtvbAE0z_E5YeZcyvitex5cqlM6r53QU",
+    "hierarchyLogs": "https://discord.com/api/webhooks/1470522106130333728/CzFmxp2crk6FOffckflQdB-_zm_wnES-qKKG8CwyageRcUmxhjAhVwPdGhe8_qPPxaDH",
+    "raidLogs": "https://discord.com/api/webhooks/1470523899748946082/MbcGkMW0sHCsgVoXIW0xrHWf7mzIG8_L_5ekL_DVgOrPZWHSey_lhoWnVF7qzV4D2_YZ"
+  },
+  "whitelistRanks": [255, 253, 24, 22, 21, 20, 19, 18, 17, 16, 15],
+  "punishmentRankId": 4,
+  "thresholdRankJump": 2
+}
