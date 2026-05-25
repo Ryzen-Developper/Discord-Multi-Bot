@@ -3,7 +3,7 @@ const path = require("path");
 
 const scheduler = require(
   path.resolve(process.cwd(), "utils", "scheduler.js")
-););
+);
 
 module.exports = {
     data: new SlashCommandBuilder()
