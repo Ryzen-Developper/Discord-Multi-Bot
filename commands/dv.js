@@ -1,5 +1,9 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
-const { addSchedule, listSchedules, removeSchedule } = require('../utils/scheduler');
+const path = require("path");
+
+const scheduler = require(
+  path.resolve(process.cwd(), "utils", "scheduler.js")
+););
 
 module.exports = {
     data: new SlashCommandBuilder()
